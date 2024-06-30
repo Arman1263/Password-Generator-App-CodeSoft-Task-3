@@ -1,0 +1,18 @@
+from module_name imoprt * 
+* means we are importing all the classes methods of module
+
+root = Tk() // remember k is small, creating object of tkinter module
+// but o/p window vanishes quicky dont see much
+
+// to hold the o/p window
+root.mainloop() // to run o/p window in loop
+
+
+IntVar // to create integer variable 
+
+weakradioButton.grid(pady=5) # for vertical specing padyY
+weakradioButton.grid(padx=5) # for horizontal specing padyX
+5 is the value or length
+
+
+string module to generate random strings
